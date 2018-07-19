@@ -3,12 +3,16 @@
 After learning about the final inevitable conclusion of the iterative trading game from:    
 https://www.youtube.com/watch?v=1Lz-yhjh1kw
 
-I decided to test this assumption in practice with Python in Jupyter Notebook.  
+I decided to test this assumption in practice with [Python](https://www.python.org/) in [Jupyter Notebook](http://jupyter.org/).  
+
+![44% 56% coin toss](img/start.png)
+
 Unfortunately, the assumption is correct.  
 
-You can see it in the action at:
+![44% 56% coin toss](img/end.png)
 
-
+You can see it in the action at:  
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sasa-buklijas/Iterative_trading_game/master?filepath=Iterative_trading_game.ipynb)
 
 To run on a local machine:
 
